@@ -144,6 +144,9 @@
 	* [DOM Location](http://www.w3school.com.cn/htmldom/dom_obj_location.asp)
 	
 	* ##### 推荐阅读  	
+	* [javascript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+	* [蘑菇街前端开发规范 - javascript 篇](https://github.com/LeezQ/MOGU-F2E/blob/master/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/%E8%98%91%E8%8F%87%E8%A1%97%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83-javascript%E7%AF%87.md)
+	
 	
 > 由于 jQuery 在处理 DOM 及 事件上的强大能力，所以对原生的 js 操作 DOM 这一块不做强制要求，有兴趣的同学可以自己了解下。  
 
@@ -202,7 +205,7 @@
 
 
 
-### 第三阶段相关学习资料：
+### 第三阶段相关资料：
 ---
 
 存放相应的 PSD 到 svn 地址上，第三周周五下午下载 svn 后，临场测试，优秀者可获得神秘奖品一件。
