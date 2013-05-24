@@ -65,7 +65,7 @@ fork 完后，在你自己的目录下就生成了该资源库，例如我的资
 		// 创建你的目录和文件，以下 yournamedir 指代你创建
 		$mkdir yournamedir
 		$cd yournamedir
-		$touche demo.html
+		$touch demo.html
 		
 		// 提交你的代码  
 		$git add yournamedir
