@@ -71,6 +71,8 @@ fork 完后，在你自己的目录下就生成了该资源库，例如我的资
 		$git add yournamedir
 		$git commit -m'my demo' yournamedir
 		
+		// 本地完成操作后，需要 push 到服务器上，git push
+		$git push
 
 代码提交后，在你的 github 网站那边就能看到你所提交的代码，然后我们需要将自己改动的东西 pull request 到主库中，点击`Pull Request`按钮
 
